@@ -1,8 +1,5 @@
 ﻿# CSP451 CheckPoint 1 Project
 
- 
-# CSP451 CheckPoint 1 Project
-
 This repository was created for **CheckPoint 1 – Introduction to GitHub and Version Control** for the CSP451 course at Seneca Polytechnic. The purpose of this project is to demonstrate Git fundamentals including repository setup, commit history, branching, pull requests, and documentation.
 
 ---
@@ -66,4 +63,5 @@ This process encourages clean commit history, organized development, and code re
 ## 📄 License
 
 This project is intended for **educational purposes only** as part of the CSP451 course. Redistribution or reuse beyond coursework may require instructor approval.
+
 
